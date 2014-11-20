@@ -2,7 +2,7 @@ Reedel on lootust esimesele tõeliselt talvisele ilmale,
 kui öösel lõunapoolt alguse saav lumesadu pea üle kogu Eesti levib.
 Ilmateenistuse prognoosi järgi kandub homme kõrgrõhkkonna 
 serva niiskust ning see toob saju. Pärast keskööd hakkab 
-alates Eesti lõuna- ja edelaservast lund, saartel ka lörtsi sadama.
+alates Eesti lõuna- ja edelaservast lund, saartel ka lörtsi sadama.TÄITSA HEA ILM!
 
 Reedel (21. novembril) kandub kõrgrõhkkonna serva niiskust ning toob 
 saju. Peale keskööd alates Eesti lõuna- ja edelaservast hakkab lund, 
@@ -21,6 +21,7 @@ on sadu Eesti idapoolses osas. Puhub lõunakaare tuul 2-7 m/s. Õhutemperatuur
 on -4..+1, saartel kuni +3°C. Päeval madalrõhkkond hääbub ja sadusid on 
 hõredamalt ja need on enamasti nõrgad. Jäiteoht püsib! Lõunakaare tuul on 
 nõrk. Õhutemperatuur on -1..+3°C.
+<<<<<<< HEAD
 
 Pühapäeval (23. novembril) õhurõhk tõuseb ja kõrgrõhkkonna mõju tugevneb. 
 Öösel võib kohati veidi sadada, päeva jooksul taevas selgineb ja saju võimalus 
@@ -32,3 +33,5 @@ päeva jooksul üle Läänemere. Pärastlõunal jõuab lörtsisadu Loode-Eestiss
 Lõunakaare tuul tugevneb. Õhutemperatuur on öösel mandril 0..-4, selgema 
 taeva all langeb alla -5°C, saartel jääb 0..+3°C piiresse, päeval on -2..+3, 
 Saaremaal ja Hiiumaal tõuseb +5°C-ni.
+=======
+>>>>>>> origin/master
