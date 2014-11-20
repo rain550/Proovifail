@@ -26,6 +26,7 @@ Pühapäeval (23. novembril) õhurõhk tõuseb ja kõrgrõhkkonna mõju tugevneb
 Öösel võib kohati veidi sadada, päeva jooksul taevas selgineb ja saju võimalus 
 on väiksem. Libeduseoht aga püsib. Puhub nõrk lõunakaare tuul. Õhutemperatuur 
 on öösel 0..-5, saarte rannikul üle 0°C, päeval -1..+4°C.
+
 Esmaspäeval (24. novembril) läheneb Skandinaaviast madalrõhkkond ja laieneb 
 päeva jooksul üle Läänemere. Pärastlõunal jõuab lörtsisadu Loode-Eestisse. 
 Lõunakaare tuul tugevneb. Õhutemperatuur on öösel mandril 0..-4, selgema 
