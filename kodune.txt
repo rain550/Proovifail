@@ -6,7 +6,9 @@ alates Eesti lõuna- ja edelaservast lund, saartel ka lörtsi sadama.TÄITSA HEA
 
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
 Tore päev!
+
 
 
 >>>>>>> origin/master
