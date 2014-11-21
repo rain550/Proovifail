@@ -8,8 +8,11 @@ alates Eesti lõuna- ja edelaservast lund, saartel ka lörtsi sadama.TÄITSA HEA
 =======
 <<<<<<< HEAD
 Tore päev!!!
+=======
+>>>>>>> origin/master
 
 
+Väga jube päev!
 
 Väga väga jube päev
 
