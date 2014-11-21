@@ -6,7 +6,7 @@ alates Eesti lõuna- ja edelaservast lund, saartel ka lörtsi sadama.TÄITSA HEA
 
 <<<<<<< HEAD
 =======
-SAJAB LUND!!
+
 
 >>>>>>> origin/master
 Reedel (21. novembril) kandub kõrgrõhkkonna serva niiskust ning toob 
